@@ -5,6 +5,7 @@ Tailwind CSS for streamlined, responsive styling.
 Framer Motion for implementing smooth, cohesive animations.
 Vite for a fast, optimized development environment.
 EmailJS for integrated email functionality, allowing direct communication.
+![1](https://github.com/user-attachments/assets/cbcdf450-28e7-4e15-b072-ee6b9de293f6)
 
 Key Features:
 Customizable 3D Section featuring a 3D desktop model.
